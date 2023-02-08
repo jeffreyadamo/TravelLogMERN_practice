@@ -4,7 +4,7 @@ A full stack application to store / list places you have traveled. Practice from
 
 ### TODO
 
-* [ ] Server Setup
+* [x] Server Setup
   * [x] Install Dependencies 
   * [x] Install / Setup Linter
   * [x] Setup Express App 
@@ -12,9 +12,9 @@ A full stack application to store / list places you have traveled. Practice from
 * [x] Model DB
   * What data will we store?
 * [x] Setup Mongoose Model(s)
-* [ ] POST / logs
+* [x] POST / logs
   * Create a new log entry
-* [ ] GET / logs
+* [x] GET / logs
   * List all log entries
   * [ ] Setup Client
   * [ ] Create Form to add a new entry
